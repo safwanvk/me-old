@@ -7880,7 +7880,7 @@ header {
 
 @media (max-width: 767.98px) {
   .about-section .author-img {
-    display: block;
+    display: circle;
     height: 300px; } }
 
 .wrap {
